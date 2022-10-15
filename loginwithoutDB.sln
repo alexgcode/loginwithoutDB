@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loginwithoutDB", "loginwithoutDB.csproj", "{1DC913E7-ED7D-46D6-9E7A-D50D2E02E49F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0C14136-255F-47B1-AAAD-4A5D87331421}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC913E7-ED7D-46D6-9E7A-D50D2E02E49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC913E7-ED7D-46D6-9E7A-D50D2E02E49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC913E7-ED7D-46D6-9E7A-D50D2E02E49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC913E7-ED7D-46D6-9E7A-D50D2E02E49F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0932936C-E159-4991-9EC9-EAF11FDAA7ED}
+	EndGlobalSection
+EndGlobal
